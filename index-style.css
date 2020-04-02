@@ -1,0 +1,62 @@
+#logo{
+    text-align: center;
+    padding: 60px 0 20px 0;
+    margin-top: 20px;
+}
+#search{
+    text-align: center;
+}
+input[type="search"] {
+    margin: 10px 0px;
+    width: 400px;
+    height: 25px;
+    border-radius: 12px;
+    padding: 10px;
+}
+.boton-busqueda{
+    border-radius: 5px;
+    padding: 5px 16px;
+}
+nav button{
+    background-color: #4285f4;
+    color: white;
+    border: 1px solid #4285f4;
+
+}
+
+.navbar{
+    overflow: hidden;
+}
+.navbar-right{
+    float: right;
+}
+a{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #5f6368;
+}
+.navbar-and-footer{
+    margin: 0px 10px;
+}
+
+a.navbar-and-footer:hover{
+    text-decoration: underline;
+    color: gainsboro;
+    
+
+}
+
+footer {
+    overflow:hidden;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+
+  }
+.footer-right{
+    float: right;
+}
